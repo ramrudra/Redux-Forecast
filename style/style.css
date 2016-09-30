@@ -1,0 +1,11 @@
+.main.container {
+    margin-top: 7em;
+}
+
+.ui.input {
+    width: 75%;
+}
+
+.search.icon {
+    cursor: pointer;
+}
